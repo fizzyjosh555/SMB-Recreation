@@ -4074,7 +4074,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 304, y: 141}
+  m_AnchoredPosition: {x: -313, y: 143}
   m_SizeDelta: {x: -595.7262, y: -361.04843}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1549469602
@@ -4110,17 +4110,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'CONTROLS
-
-
-    ARROW KEYS FOR MOVEMENT
+  m_Text: 'ARROW KEYS FOR MOVEMENT
 
 
     SPACE TO JUMP
 
 
-    1 TO
-    PAUSE'
+    1 TO PAUSE
+
+'
 --- !u!222 &1549469603
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5197,7 +5195,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 249}
+  m_AnchoredPosition: {x: 0, y: 265}
   m_SizeDelta: {x: -573.0561, y: -557.099}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1901822631
