@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - MovingPlatform
+  - KillPlane
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -47,4 +49,7 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 3408147707
+    locked: 0
+  - name: EndPipe
+    uniqueID: 3651930039
     locked: 0
